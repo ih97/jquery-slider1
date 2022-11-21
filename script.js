@@ -70,18 +70,5 @@ function shiftSlide(direction) {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 })
 
